@@ -19,8 +19,8 @@
 
     export default {
         components: {
-            appHeader: Header,
-            Servers,
+            'app-header': Header,
+            'servers': Servers,
             'app-server-details': ServerDetails,
             'app-footer': Footer
         }
